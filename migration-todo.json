@@ -1,0 +1,832 @@
+[
+  {
+    "file": "D:/React-version-3/src/index.js",
+    "issue": "ReactDOM.render is deprecated in React 18 — use createRoot instead.",
+    "line": 13
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 9
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 9
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "Deprecated lifecycle method: componentDidMount",
+    "line": 27
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 27
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 27
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 27
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 27
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 32
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 32
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 32
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 32
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 32
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 32
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 32
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 33
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 33
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 33
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 33
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 33
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 33
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 33
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 35
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 35
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 35
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 46
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 46
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 47
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 47
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 47
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 47
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 47
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 47
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 47
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 49
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 49
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 49
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 49
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 49
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 57
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 57
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 57
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 58
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 58
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 58
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 58
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 58
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 58
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 58
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 63
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 63
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 63
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 76
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 76
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 76
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 84
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 84
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 84
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 85
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 85
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 85
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 94
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 132
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 132
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 132
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 137
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 137
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 138
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 138
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 139
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 139
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 140
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 140
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 140
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 140
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 141
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 141
+  },
+  {
+    "file": "D:/React-version-3/src/Context/Context.jsx",
+    "issue": "Inline arrow function in JSX — consider extracting for performance.",
+    "line": 158
+  },
+  {
+    "file": "D:/React-version-3/src/Pages/SingleRoom.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 13
+  },
+  {
+    "file": "D:/React-version-3/src/Pages/SingleRoom.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 14
+  },
+  {
+    "file": "D:/React-version-3/src/Pages/SingleRoom.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 14
+  },
+  {
+    "file": "D:/React-version-3/src/Pages/SingleRoom.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 17
+  },
+  {
+    "file": "D:/React-version-3/src/Pages/SingleRoom.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 17
+  },
+  {
+    "file": "D:/React-version-3/src/Pages/SingleRoom.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 17
+  },
+  {
+    "file": "D:/React-version-3/src/Pages/SingleRoom.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 26
+  },
+  {
+    "file": "D:/React-version-3/src/Pages/SingleRoom.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 26
+  },
+  {
+    "file": "D:/React-version-3/src/Pages/SingleRoom.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 28
+  },
+  {
+    "file": "D:/React-version-3/src/Pages/SingleRoom.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 28
+  },
+  {
+    "file": "D:/React-version-3/src/Pages/SingleRoom.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 28
+  },
+  {
+    "file": "D:/React-version-3/src/Pages/SingleRoom.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 28
+  },
+  {
+    "file": "D:/React-version-3/src/Pages/SingleRoom.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 28
+  },
+  {
+    "file": "D:/React-version-3/src/Pages/SingleRoom.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 28
+  },
+  {
+    "file": "D:/React-version-3/src/Pages/SingleRoom.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 55
+  },
+  {
+    "file": "D:/React-version-3/src/Pages/SingleRoom.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 55
+  },
+  {
+    "file": "D:/React-version-3/src/Pages/SingleRoom.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 56
+  },
+  {
+    "file": "D:/React-version-3/src/Pages/SingleRoom.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 57
+  },
+  {
+    "file": "D:/React-version-3/src/Pages/SingleRoom.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 57
+  },
+  {
+    "file": "D:/React-version-3/src/Pages/SingleRoom.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 57
+  },
+  {
+    "file": "D:/React-version-3/src/Pages/SingleRoom.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 57
+  },
+  {
+    "file": "D:/React-version-3/src/Pages/SingleRoom.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 57
+  },
+  {
+    "file": "D:/React-version-3/src/Pages/SingleRoom.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 57
+  },
+  {
+    "file": "D:/React-version-3/src/Pages/SingleRoom.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 57
+  },
+  {
+    "file": "D:/React-version-3/src/Pages/SingleRoom.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 57
+  },
+  {
+    "file": "D:/React-version-3/src/Pages/SingleRoom.jsx",
+    "issue": "Inline arrow function in JSX — consider extracting for performance.",
+    "line": 67
+  },
+  {
+    "file": "D:/React-version-3/src/Pages/SingleRoom.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 67
+  },
+  {
+    "file": "D:/React-version-3/src/Pages/SingleRoom.jsx",
+    "issue": "Inline arrow function in JSX — consider extracting for performance.",
+    "line": 95
+  },
+  {
+    "file": "D:/React-version-3/src/Pages/SingleRoom.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 95
+  },
+  {
+    "file": "D:/React-version-3/src/Components/FeaturedRooms/FeaturedRooms.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 16
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Hero/Hero.jsx",
+    "issue": "defaultProps in function components are no longer supported — use default parameters.",
+    "line": 7
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Hero/Hero.jsx",
+    "issue": "defaultProps in function components are no longer supported — use default parameters.",
+    "line": 7
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Hero/Hero.jsx",
+    "issue": "defaultProps in function components are no longer supported — use default parameters.",
+    "line": 7
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Navbar/Navbar.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 10
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Navbar/Navbar.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 14
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Navbar/Navbar.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 14
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Navbar/Navbar.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 14
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Navbar/Navbar.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 15
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Navbar/Navbar.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 15
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Navbar/Navbar.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 15
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Navbar/Navbar.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 15
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Navbar/Navbar.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 15
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Navbar/Navbar.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 15
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Navbar/Navbar.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 15
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Navbar/Navbar.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 15
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Navbar/Navbar.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 18
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Navbar/Navbar.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 18
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Navbar/Navbar.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 19
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Navbar/Navbar.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 19
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Navbar/Navbar.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 20
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Navbar/Navbar.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 21
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Navbar/Navbar.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 38
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Navbar/Navbar.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 38
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Navbar/Navbar.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 39
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Navbar/Navbar.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 39
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Navbar/Navbar.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 39
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Navbar/Navbar.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 39
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Navbar/Navbar.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 39
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Navbar/Navbar.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 39
+  },
+  {
+    "file": "D:/React-version-3/src/Components/RoomsContainer/RoomsFilter.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 11
+  },
+  {
+    "file": "D:/React-version-3/src/Components/RoomsContainer/RoomsFilter.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 11
+  },
+  {
+    "file": "D:/React-version-3/src/Components/RoomsContainer/RoomsFilter.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 11
+  },
+  {
+    "file": "D:/React-version-3/src/Components/RoomsContainer/RoomsFilter.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 11
+  },
+  {
+    "file": "D:/React-version-3/src/Components/RoomsContainer/RoomsFilter.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 11
+  },
+  {
+    "file": "D:/React-version-3/src/Components/RoomsContainer/RoomsFilter.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 12
+  },
+  {
+    "file": "D:/React-version-3/src/Components/RoomsContainer/RoomsFilter.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 12
+  },
+  {
+    "file": "D:/React-version-3/src/Components/RoomsContainer/RoomsFilter.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 12
+  },
+  {
+    "file": "D:/React-version-3/src/Components/RoomsContainer/RoomsFilter.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 12
+  },
+  {
+    "file": "D:/React-version-3/src/Components/RoomsContainer/RoomsFilter.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 12
+  },
+  {
+    "file": "D:/React-version-3/src/Components/RoomsContainer/RoomsFilter.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 12
+  },
+  {
+    "file": "D:/React-version-3/src/Components/RoomsContainer/RoomsFilter.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 36
+  },
+  {
+    "file": "D:/React-version-3/src/Components/RoomsContainer/RoomsFilter.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 46
+  },
+  {
+    "file": "D:/React-version-3/src/Components/RoomsContainer/RoomsList.jsx",
+    "issue": "Inline arrow function in JSX — consider extracting for performance.",
+    "line": 18
+  },
+  {
+    "file": "D:/React-version-3/src/Components/RoomsContainer/RoomsList.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 18
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Services/Services.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 9
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Services/Services.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 39
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Services/Services.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 39
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Services/Services.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 40
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Services/Services.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 40
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Services/Services.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 41
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Services/Services.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 44
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Services/Services.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 45
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Services/Services.jsx",
+    "issue": "Inline arrow function in JSX — consider extracting for performance.",
+    "line": 45
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Services/Services.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 45
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Services/Services.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 45
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Services/Services.jsx",
+    "issue": "Possible missing key prop in list rendering.",
+    "line": 45
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Services/Services.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 45
+  },
+  {
+    "file": "D:/React-version-3/src/Components/Services/Services.jsx",
+    "issue": "this.state or this.setState found — consider migrating to hooks.",
+    "line": 45
+  }
+]
