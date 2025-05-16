@@ -120,7 +120,7 @@ const RoomProvider = ({ children }) => {
     tempRooms = tempRooms.filter((room) => room.price <= price);
 
     tempRooms = tempRooms.filter(
-      (room) => room.size >= minSize && room.size <= maxSize
+      (room) => room.size >= minSize && room.size <= maxSize,
     );
 
     if (breakfast) {
