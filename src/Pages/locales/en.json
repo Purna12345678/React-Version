@@ -1,0 +1,15 @@
+{
+  "our-rooms": "our rooms",
+  "return-home": "return home",
+  "no-such-room-found": "no such room could be found!",
+  "back-to-rooms-1": "back to rooms",
+  "back-to-rooms-2": "back to rooms",
+  "details-label": "details:",
+  "information-label": "information:",
+  "price-template": "price : ${{price}}",
+  "size-template": "size : {{size}} SQFT",
+  "max-capacity-template_plurals_1_one": "{{count}} person",
+  "max-capacity-template_plurals_1_other": "{{count}} people",
+  "max-capacity-template": "max capacity : $t('max-capacity-template_plurals_1', {\"count\": {{capacity}} })",
+  "extras-label": "extras:"
+}

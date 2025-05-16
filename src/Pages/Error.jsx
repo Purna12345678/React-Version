@@ -1,3 +1,4 @@
+import { useTranslation } from "react-i18next";
 import React from "react";
 
 // import react-router-dom
@@ -8,11 +9,13 @@ import Hero from "../Components/Hero/Hero";
 import Banner from "../Components/Banner/Banner";
 
 function Error() {
+  const { t } = useTranslation("Pages");
+
   return (
     <Hero>
       <Banner title="404" subtitle="page not found">
         <Link to="/" className="btn-primary">
-          return home
+          {t("return-home")}
         </Link>
       </Banner>
     </Hero>
