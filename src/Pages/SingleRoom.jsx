@@ -1,3 +1,4 @@
+import { useTranslation } from "react-i18next";
 import React, { useState, useContext } from "react";
 import { useParams, Link } from "react-router-dom";
 
@@ -10,6 +11,8 @@ import { RoomContext } from "../Context/Context";
 import StyledHero from "../Components/StyledHero/StyledHero";
 
 export default function SingleRoom() {
+  const { t } = useTranslation("Pages");
+
   const { slug } = useParams();
   const { getRoom } = useContext(RoomContext);
   const room = getRoom(slug);
@@ -18,9 +21,9 @@ export default function SingleRoom() {
   if (!room) {
     return (
       <div className="error">
-        <h3>no such room could be found!</h3>
+        <h3>{t("no-such-room-found")}</h3>
         <Link to="/rooms" className="btn-primary">
-          back to rooms
+          {t("back-to-rooms-1")}
         </Link>
       </div>
     );
@@ -57,7 +60,7 @@ export default function SingleRoom() {
       <StyledHero img={mainImg || mainBcg}>
         <Banner title={`${name} room`}>
           <Link to="/rooms" className="btn-primary">
-            back to rooms
+            {t("back-to-rooms-2")}
           </Link>
         </Banner>
       </StyledHero>
@@ -67,18 +70,15 @@ export default function SingleRoom() {
 
         <div className="single-room-info">
           <article className="desc">
-            <h3>details:</h3>
+            <h3>{t("details-label")}</h3>
             <p>{description}</p>
           </article>
 
           <article className="info">
-            <h3>information:</h3>
-            <h6>price : ${price}</h6>
-            <h6>size : {size} SQFT</h6>
-            <h6>
-              max capacity :{" "}
-              {capacity > 1 ? `${capacity} people` : `${capacity} person`}
-            </h6>
+            <h3>{t("information-label")}</h3>
+            <h6>{t("price-template", { price })}</h6>
+            <h6>{t("size-template", { size })}</h6>
+            <h6>{t("max-capacity-template", { capacity })}</h6>
             <h6>{pets ? "pets allowed" : "no pets allowed"}</h6>
             <h6>{breakfast && "free breakfast included"}</h6>
           </article>
@@ -86,7 +86,7 @@ export default function SingleRoom() {
       </section>
 
       <section className="room-extras">
-        <h6>extras:</h6>
+        <h6>{t("extras-label")}</h6>
         <ul className="extras">{renderExtras()}</ul>
       </section>
     </>

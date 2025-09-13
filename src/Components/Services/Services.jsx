@@ -1,3 +1,4 @@
+import { useTranslation } from "react-i18next";
 import React from "react";
 
 // imports react-icons
@@ -40,9 +41,11 @@ function renderService(item, index) {
 }
 
 export default function Services() {
+  const { t } = useTranslation("Components/Services");
+
   return (
     <section className="services">
-      <Title title="services" />
+      <Title title={t("services")} />
 
       <div className="services-center">{services.map(renderService)}</div>
     </section>

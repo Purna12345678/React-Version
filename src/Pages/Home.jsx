@@ -1,3 +1,4 @@
+import { useTranslation } from "react-i18next";
 import React from "react";
 // import react-router-dom
 import { Link } from "react-router-dom";
@@ -8,6 +9,8 @@ import Hero from "../Components/Hero/Hero";
 import Services from "../Components/Services/Services";
 
 function Home() {
+  const { t } = useTranslation("Pages");
+
   return (
     <>
       <Hero>
@@ -16,7 +19,7 @@ function Home() {
           subtitle="deluxe rooms starting at $299"
         >
           <Link to="/rooms" className="btn-primary">
-            our rooms
+            {t("our-rooms")}
           </Link>
         </Banner>
       </Hero>
