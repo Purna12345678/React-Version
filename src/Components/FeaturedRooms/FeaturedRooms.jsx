@@ -19,7 +19,9 @@ export default function FeaturedRooms() {
     <section className="featured-rooms">
       <Title title="featured rooms" />
 
-      <div className="featured-rooms-center">{loading ? <Loading /> : roomList}</div>
+      <div className="featured-rooms-center">
+        {loading ? <Loading /> : roomList}
+      </div>
     </section>
   );
 }
